@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>grenade.mp3</file>
+        <file>war.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images.png</file>
+        <file>small.png</file>
+        <file>plane2.png</file>
+        <file>back.png</file>
+        <file>rot.png</file>
+        <file>tiles.jpg</file>
+    </qresource>
+</RCC>
